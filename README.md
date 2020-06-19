@@ -1,7 +1,7 @@
-# Mean-Reversion & Cointegration scripts
+# Mean-Reversion & Cointegration scripts in Python
 
 #### [Simple Mean Reversion Strategy in Python](https://github.com/arendarski/Simple-Mean-Reversion-Strategy-in-Python)  
-* Unit root Testing (7 tests) a selected trading pair 
+* Unit root testing (using 7 tests) a selected trading pair 
 * Backtesting this pair using zScore ratio. 
 
 #### [Selection and Backtesting of a portfolio of pairs based on Cointegration in Python](https://github.com/arendarski/Backtesting-of-a-Portfolio-of-Pairs-Based-on-Cointegration-in-Python)
