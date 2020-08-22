@@ -10,13 +10,3 @@
 * Backtest portfolio of pairs using zscore method
 * Check current zScore of cointegrated pairs
 * Parameters optimisation
-
-Code example:
-
-```python
-x = 1
-print('Hello World!')
-y = x + 2
-def sum(x, y):
-  pass
-```
